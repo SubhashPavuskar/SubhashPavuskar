@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subhash</h1>
-<h3 align="center">A passionate Java Fullstack developer</h3>
+With 12+ years of experience in software development, I have successfully led multiple projects as a Technical Lead, focusing on designing and implementing robust solutions using Java, Spring Boot, and Microservices. Proficient in both front-end and back-end development, I work with a diverse tech stack that includes AngularJS, Node.js, Kafka, and MongoDB. I am passionate about staying ahead of industry trends, delivering scalable, high-quality software, and continuously expanding my skills in emerging technologies. Solving complex problems and building innovative solutions is what drives me every day.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhashpavuskar&label=Profile%20views&color=0e75b6&style=flat" alt="subhashpavuskar" /> </p>
 
 
 ![](https://hit.SubhashPavuskar.me/github/profile?user_id=1484002)
