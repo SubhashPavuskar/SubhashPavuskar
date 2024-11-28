@@ -5,7 +5,7 @@
 
 
 ![](https://hit.SubhashPavuskar.me/github/profile?user_id=1484002)
-[![Linkedin: SubhashPavuskar](https://img.shields.io/badge/-Byungjin%20Park-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SubhashPavuskar/)](https://www.linkedin.com/in/SubhashPavuskar/)
+[![Linkedin: SubhashPavuskar](https://img.shields.io/badge/-SubhashPavuskar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SubhashPavuskar/)](https://www.linkedin.com/in/SubhashPavuskar/)
 [![Twitter: SubhashPavuskar](https://img.shields.io/twitter/follow/SubhashPavuskar?style=social)](https://twitter.com/SubhashPavuskar)
 [![GitHub SubhashPavuskar](https://img.shields.io/github/followers/SubhashPavuskar?label=follow&style=social)](https://github.com/SubhashPavuskar)
 [![GitHub Stars](https://img.shields.io/github/stars/SubhashPavuskar?style=social)](https://github.com/SubhashPavuskar)
